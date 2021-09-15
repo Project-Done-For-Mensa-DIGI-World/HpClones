@@ -13,22 +13,22 @@ const printerPart=()=>{
                                
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                            
                         </div>
                     </div>
                     <div class="col">
                         <div class=" h-100">
-                            <img src="images/devices/01Printer1.jpg" class="card-img-top  w-100" alt="...">
+                            <img class"proImagePrinter" src="images/devices/01Printer1.jpg" class="card-img-top  w-100" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                           
                         </div>
@@ -41,8 +41,8 @@ const printerPart=()=>{
                               
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                          
                         </div>
@@ -56,8 +56,8 @@ const printerPart=()=>{
                               
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                          
                         </div>
@@ -70,8 +70,8 @@ const printerPart=()=>{
                               
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                          
                         </div>
@@ -84,8 +84,8 @@ const printerPart=()=>{
                               
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                          
                         </div>
@@ -115,8 +115,8 @@ const PCSPart=()=>{
                                
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                            
                         </div>
@@ -129,8 +129,8 @@ const PCSPart=()=>{
                                 
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                           
                         </div>
@@ -143,8 +143,8 @@ const PCSPart=()=>{
                               
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                          
                         </div>
@@ -158,8 +158,8 @@ const PCSPart=()=>{
                               
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                          
                         </div>
@@ -172,8 +172,8 @@ const PCSPart=()=>{
                               
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                          
                         </div>
@@ -186,8 +186,8 @@ const PCSPart=()=>{
                               
                             </div>
                             <div>
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <a href="">shop</a>
+                                <button type="button" class="btn btn-primary">Learn</button>
+                                <a class="deviceShopanchor" href="">shop</a>
                             </div>
                          
                         </div>
